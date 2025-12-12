@@ -5,7 +5,7 @@ Simulador bancario desarrollado en **Java Swing**, que permite realizar operacio
 
 ## Características principales
 
-### 🔐 Inicio de Sesión
+### Inicio de Sesión
 El sistema valida credenciales predefinidas:
 - **Usuario:** `cliente123`
 - **Contraseña:** `clave456`
